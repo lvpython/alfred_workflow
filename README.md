@@ -22,7 +22,7 @@
 |flushdns.alfredworkflow||flushdns|
 |ip138.alfredworkflow||ip138 &ipaddress&|
 |jsapi-workflow.alfredworkflow|javascript API query|js &keyword&|
-|pm2.5-alfred.alfredworkflow|||
+|pm2.5-alfred.alfredworkflow||pm2.5|
 |ruby-china.alfredworkflow||rc *n*  rc *h*|
 |smzdm.alfredworkflow||zdm|
 |stackoverflow.alfredworkflow||st &keyword&|
@@ -30,3 +30,5 @@
 |花密.alfredworkflow||fp &pwd& &scope&|
 |有道翻译.alfredworkflow||yd &word&|
 |马尔福——Alfred微博.alfredworkflow||微博|
+|huihui.alfredworkflow|惠惠网|hh|
+|mgpyh.alfredworkflow|美国便宜货|pyh|
