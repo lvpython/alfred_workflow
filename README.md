@@ -10,10 +10,10 @@
 |Chiphell.alfredworkflow|chiphell.com|chh top|
 |Colors.alfredworkflow||#number or rgb or hsl|
 |Douban.alfredworkflow||movie or book or music &keyword&|
-|Github.alfredworkflow||gist or github|
+|Github.alfredworkflow||gist or set &username& or git s &keyword&|
 |Play-Song.alfredworkflow|play music from your itunes library|play &keyword&|
 |PrependText2File.alfredworkflow|write content to a file|pptext &content&|
-|SNSearch.alfredworkflow||sn top|
+|SNSearch.alfredworkflow||sn all|
 |Shanbay_Alfred2_Workflow.alfredworkflow||sb &word&|
 |TimeIn-v1.01.alfredworkflow|world clock|timein|
 |V2EX.alfredworkflow|v2ex.com|v2ex n|
@@ -22,7 +22,7 @@
 |flushdns.alfredworkflow||flushdns|
 |ip138.alfredworkflow||ip138 &ipaddress&|
 |jsapi-workflow.alfredworkflow|javascript API query|js &keyword&|
-|pm2.5-alfred.alfredworkflow||pm2.5|
+|pm2.5-alfred.alfredworkflow||pm2.5 &cityname&|
 |ruby-china.alfredworkflow||rc *n*  rc *h*|
 |smzdm.alfredworkflow||zdm|
 |stackoverflow.alfredworkflow||st &keyword&|
@@ -32,3 +32,8 @@
 |马尔福——Alfred微博.alfredworkflow||微博|
 |huihui.alfredworkflow|惠惠网|hh|
 |mgpyh.alfredworkflow|美国便宜货|pyh|
+|alfred-for-trello.alfredworkflow|trello.com|jrello &auth& trello &todo&|
+|SEO-Checker.alfredworkflow|SEO Search|seo &domain&|
+|GeekPark.alfredworkflow|geekpark.net|gpk n|
+|Evernote.alfredworkflow|evernote|en &keyword&  ennew enu entodo enr enrec|
+|Google.alfredworkflow|google search|g, gi &keyword&, gs site:&sitename& &keyword&|
