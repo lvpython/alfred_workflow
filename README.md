@@ -37,3 +37,5 @@
 |GeekPark.alfredworkflow|geekpark.net|gpk n|
 |Evernote.alfredworkflow|evernote|en &keyword&  ennew enu entodo enr enrec|
 |Google.alfredworkflow|google search|g, gi &keyword&, gs site:&sitename& &keyword&|
+|Dev Doctor.alfredworkflow|dev tools|ruby or js or python or php or jquery or …|
+|Font Awesome.alfredworkflow||fa arr or fa flag|
