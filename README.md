@@ -39,3 +39,5 @@
 |Google.alfredworkflow|google search|g, gi &keyword&, gs site:&sitename& &keyword&|
 |Dev Doctor.alfredworkflow|dev tools|ruby or js or python or php or jquery or …|
 |Font Awesome.alfredworkflow||fa arr or fa flag|
+|Source Tree.alfredworkflow||sct &keyword& or stbookmark &keyword&|
+|Top Processes.alfredworkflow||kill or top (-m or -c or -i)or glance|
