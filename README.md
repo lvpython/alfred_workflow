@@ -41,3 +41,14 @@
 |Font Awesome.alfredworkflow||fa arr or fa flag|
 |Source Tree.alfredworkflow||sct &keyword& or stbookmark &keyword&|
 |Top Processes.alfredworkflow||kill or top (-m or -c or -i)or glance|
+|Lock-1Password.alfredworkflow||lock|
+|JIRA Project Management.alfredworkflow||eng or prd or gpro|
+|Pocket workflow.alfredworkflow|add chrome opened url to pocket|1.pocket_login,2.pocket_save|
+|Pocket-for-Alfred.alfredworkflow|search pocket from local|pocket|
+|Chrome Bookmarks.alfredworkflow|search bookmark in chrome|bm <keyword>|
+|Currency.alfredworkflow|currency checker|$ or €|
+|Open Project.alfredworkflow|multiple project management|proj set or proj or ide|
+|Recent Documents.alfredworkflow|view recent opened documents|recent|
+|alfred-tmux.alfredworkflow|use tmux manage iterm2|tmux|
+|recentdownloads.alfredworkflow|view recent download files|rdn or rdo|
+|send.alfredworkflow|send file to cloudy service. ex. icloud, drop etc|send:config or send:d or send:o|
